@@ -2,6 +2,8 @@
 
 Разработка блог-платформы для публикации статей.
 
+Не забудьте посетить нашу [wiki](https://github.com/autoschool/practice/wiki)
+
 ## Инфраструктура
 
  * Github:   http://github.com/autoschool
