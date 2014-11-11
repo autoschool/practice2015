@@ -10,7 +10,7 @@
 
 ## Технологии
 
- * [Git](http://git-scm.com): для хранения исходных кодо проекта
+ * [Git](http://git-scm.com): для хранения исходного кода проекта
  * [Maven](http://maven.apache.org): для сборки проекта
  * [Mysql](http://www.mysql.com): в качетсве базы данных
  * [ActiveJDBC](http://javalite.io/activejdbc): для работы с базой данных
