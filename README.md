@@ -25,7 +25,6 @@
 ## Полезные инструменты
 
 * [Mockups](https://moqups.com): для набросков дизайна
-* 
 
 ## Полезные ссылки
  * [GitHowTo](http://githowto.com/ru) - для обучения git
