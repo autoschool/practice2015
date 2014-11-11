@@ -2,7 +2,7 @@
 
 Разработка блог-платформы для публикации статей.
 
-Не забудьте посетить нашу [wiki](https://github.com/autoschool/practice/wiki)
+Не забудьте посетить нашу [wiki](https://github.com/autoschool/practice/wiki).
 
 ## Инфраструктура
 
