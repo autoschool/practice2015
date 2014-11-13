@@ -6,41 +6,7 @@
 
 ## Проекты
 
-### Zlogger
-
-* команда: https://github.com/orgs/autoschool/teams/zlogger-team
-* репозиторий: https://github.com/autoschool/zlogger
-* jenkins: http://ci.school.qatools.ru/view/zlogger/
-
-### Baguette
-
-* команда: https://github.com/orgs/autoschool/teams/baguette-team
-* репозиторий: https://github.com/autoschool/baguette
-* jenkins: http://ci.school.qatools.ru/view/baguette/
-
-### Twister
-
-* команда: https://github.com/orgs/autoschool/teams/twister-team
-* репозиторий: https://github.com/autoschool/twister
-* jenkins: http://ci.school.qatools.ru/view/twister/
-
-### Hlebushek
-
-* команда: https://github.com/orgs/autoschool/teams/hlebushek-team
-* репозиторий: https://github.com/autoschool/hlebushek
-* jenkins: http://ci.school.qatools.ru/view/hlebushek/
-
-### ya.blogo
-
-* команда: https://github.com/orgs/autoschool/teams/ya.blogo-team
-* репозиторий: https://github.com/autoschool/ya.blogo
-* jenkins: http://ci.school.qatools.ru/view/ya.blogo/
-
-### Splinter
-
-* команда: https://github.com/orgs/autoschool/teams/splinter-team
-* репозиторий: https://github.com/autoschool/splinter
-* jenkins: http://ci.school.qatools.ru/view/splinter/
+Список всех проектом можно посмотреть [здесь](https://github.com/autoschool/practice/wiki/Проекты)
 
 ## Инфраструктура
 
