@@ -4,6 +4,44 @@
 
 Не забудьте посетить нашу [wiki](https://github.com/autoschool/practice/wiki).
 
+## Проекты
+
+### Zlogger
+
+Команда: https://github.com/orgs/autoschool/teams/zlogger-team
+Репозиторий: https://github.com/autoschool/zlogger
+Jenkins: http://ci.school.qatools.ru/view/zlogger/
+
+### Baguette
+
+Команда: https://github.com/orgs/autoschool/teams/baguette-team
+Репозиторий: https://github.com/autoschool/baguette
+Jenkins: http://ci.school.qatools.ru/view/baguette/
+
+### Twister
+
+Команда: https://github.com/orgs/autoschool/teams/twister-team
+Репозиторий: https://github.com/autoschool/twister
+Jenkins: http://ci.school.qatools.ru/view/twister/
+
+### Hlebushek
+
+Команда: https://github.com/orgs/autoschool/teams/hlebushek-team
+Репозиторий: https://github.com/autoschool/hlebushek
+Jenkins: http://ci.school.qatools.ru/view/hlebushek/
+
+### ya.blogo
+
+Команда: https://github.com/orgs/autoschool/teams/ya.blogo-team
+Репозиторий: https://github.com/autoschool/ya.blogo
+Jenkins: http://ci.school.qatools.ru/view/ya.blogo/
+
+### Splinter
+
+Команда: https://github.com/orgs/autoschool/teams/splinter-team
+Репозиторий: https://github.com/autoschool/splinter
+Jenkins: http://ci.school.qatools.ru/view/splinter/
+
 ## Инфраструктура
 
  * Github:   http://github.com/autoschool
