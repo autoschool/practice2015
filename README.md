@@ -6,7 +6,7 @@
 
 ## Проекты
 
-Список всех проектом можно посмотреть [здесь](https://github.com/autoschool/practice/wiki/Проекты)
+Список всех проектом можно посмотреть [здесь](https://github.com/autoschool/practice/wiki/Проекты). 
 
 ## Инфраструктура
 
