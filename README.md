@@ -8,39 +8,39 @@
 
 ### Zlogger
 
-Команда: https://github.com/orgs/autoschool/teams/zlogger-team
-Репозиторий: https://github.com/autoschool/zlogger
-Jenkins: http://ci.school.qatools.ru/view/zlogger/
+* команда: https://github.com/orgs/autoschool/teams/zlogger-team
+* репозиторий: https://github.com/autoschool/zlogger
+* jenkins: http://ci.school.qatools.ru/view/zlogger/
 
 ### Baguette
 
-Команда: https://github.com/orgs/autoschool/teams/baguette-team
-Репозиторий: https://github.com/autoschool/baguette
-Jenkins: http://ci.school.qatools.ru/view/baguette/
+* команда: https://github.com/orgs/autoschool/teams/baguette-team
+* репозиторий: https://github.com/autoschool/baguette
+* jenkins: http://ci.school.qatools.ru/view/baguette/
 
 ### Twister
 
-Команда: https://github.com/orgs/autoschool/teams/twister-team
-Репозиторий: https://github.com/autoschool/twister
-Jenkins: http://ci.school.qatools.ru/view/twister/
+* команда: https://github.com/orgs/autoschool/teams/twister-team
+* репозиторий: https://github.com/autoschool/twister
+* jenkins: http://ci.school.qatools.ru/view/twister/
 
 ### Hlebushek
 
-Команда: https://github.com/orgs/autoschool/teams/hlebushek-team
-Репозиторий: https://github.com/autoschool/hlebushek
-Jenkins: http://ci.school.qatools.ru/view/hlebushek/
+* команда: https://github.com/orgs/autoschool/teams/hlebushek-team
+* репозиторий: https://github.com/autoschool/hlebushek
+* jenkins: http://ci.school.qatools.ru/view/hlebushek/
 
 ### ya.blogo
 
-Команда: https://github.com/orgs/autoschool/teams/ya.blogo-team
-Репозиторий: https://github.com/autoschool/ya.blogo
-Jenkins: http://ci.school.qatools.ru/view/ya.blogo/
+* команда: https://github.com/orgs/autoschool/teams/ya.blogo-team
+* репозиторий: https://github.com/autoschool/ya.blogo
+* jenkins: http://ci.school.qatools.ru/view/ya.blogo/
 
 ### Splinter
 
-Команда: https://github.com/orgs/autoschool/teams/splinter-team
-Репозиторий: https://github.com/autoschool/splinter
-Jenkins: http://ci.school.qatools.ru/view/splinter/
+* команда: https://github.com/orgs/autoschool/teams/splinter-team
+* репозиторий: https://github.com/autoschool/splinter
+* jenkins: http://ci.school.qatools.ru/view/splinter/
 
 ## Инфраструктура
 
