@@ -8,6 +8,10 @@
 
 Список всех проектом можно посмотреть [здесь](https://github.com/autoschool/practice/wiki/Проекты). 
 
+## Требования
+
+Список требований к функциональности и технологиям находится [здесь](https://github.com/autoschool/practice/wiki/Требования)
+
 ## Инфраструктура
 
  * Github:   http://github.com/autoschool
