@@ -24,4 +24,4 @@
 
 ## Полезные ссылки
  * [GitHowTo](http://githowto.com/ru) - для обучения git
- * [Weather](https://github.com/autoschool/weather): там есть почти кроме базы данных :)
+ * [Weather](https://github.com/autoschool/weather): там есть почти все кроме базы данных :)
